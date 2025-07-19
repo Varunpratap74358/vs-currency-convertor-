@@ -1,0 +1,26 @@
+{
+  "name": "vs-currency-converter",
+  "version": "1.0.0",
+  "description": "npm packege to convert currency",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varunpratap74358/vs-currency-convertor-.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "varun singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Varunpratap74358/vs-currency-convertor-/issues"
+  },
+  "homepage": "https://github.com/Varunpratap74358/vs-currency-convertor-#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
